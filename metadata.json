@@ -1,0 +1,8 @@
+{
+  "name": "VU Student Smart Dashboard",
+  "description": "A Duolingo-inspired, playful student dashboard for Virtual University students to manage their BSCS, IT, or SE courses, track progress, and access study materials with an AI study buddy.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
